@@ -1,0 +1,12 @@
+{
+    "All values":[
+        {
+            "Problem": "1 + 2",
+            "Solution": 3
+        },
+        {
+           "Problem": "5 - 3",
+            "Solution": 2
+        }
+    ]
+}

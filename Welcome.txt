@@ -1,0 +1,26 @@
+HI and welcome to the PYTHON BIBLE
+
+Chapter 1:
+    1 - basic input and output
+    2 - variables
+    3 - lists
+    4 - if
+    5 - for loops
+    6 - def/functions
+    7 - classes
+    8 - order
+
+Chapter 2:
+    1 - error handling
+    2 - dict
+    3 - Json file dict setup
+
+Chapter 3:
+    import matplotlib
+    import datetime
+    import pandas
+    import beautifulSoup
+
+Chapter 4:
+    1 - mySQL information retreval
+    
